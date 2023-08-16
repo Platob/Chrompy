@@ -16,4 +16,5 @@ setup(
     author='Fillot Nicolas',
     author_email='nfillot.pro@gmail.com',
     description='Chrome driver fully automated',
+    long_description="Chrome driver fully automated"
 )
