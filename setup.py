@@ -15,5 +15,5 @@ setup(
     license='Apache License 2.0',
     author='Fillot Nicolas',
     author_email='nfillot.pro@gmail.com',
-    description='Chrome driver fully automated'
+    description='Chrome driver fully automated',
 )
